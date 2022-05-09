@@ -29,9 +29,9 @@
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </p>
 
-### GIT STATS
+## GIT STATS
 ![awesominki's GitHub stats](https://github-readme-stats.vercel.app/api?username=awesominki&show_icons=true&theme=tokyonight)
 
-### BOJ
+## BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=oversteam)](https://solved.ac/oversteam)
 
