@@ -9,6 +9,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=oversteam)](https://solved.ac/oversteam)
 
 ### Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oversteam&layout=demo&theme=tokyonight)
-
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
