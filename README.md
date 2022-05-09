@@ -7,3 +7,8 @@
 
 ### BOJ
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=oversteam)](https://solved.ac/oversteam)
+
+### Language
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oversteam&layout=demo&theme=tokyonight)
+
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
