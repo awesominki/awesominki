@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Tyler Jeon&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Tyler&fontSize=100" />
 
 # 🎱 JEON MIN GI 🎱
 
